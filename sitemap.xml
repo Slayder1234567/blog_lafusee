@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://blog-lafusee.vercel.app/</loc>
+    <lastmod>2026-05-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://blog-lafusee.vercel.app/site-indexe-google-guide-complet-2026.png</image:loc>
+      <image:title>Comment savoir si mon site est indexé sur Google — Guide complet 2026</image:title>
+      <image:caption>Illustration du processus d'indexation Google : crawl, index, résultats de recherche</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://blog-lafusee.vercel.app/etapes-crawl-indexation-google.png</image:loc>
+      <image:title>4 étapes entre être en ligne et être visible sur Google</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://blog-lafusee.vercel.app/processus-googlebot-exploration-indexation.png</image:loc>
+      <image:title>Processus Googlebot — exploration et indexation d'une page web</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://blog-lafusee.vercel.app/google-search-console-verification-url.png</image:loc>
+      <image:title>Google Search Console — vérification du statut d'indexation d'une URL</image:title>
+    </image:image>
+  </url>
+</urlset>
