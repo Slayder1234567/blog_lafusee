@@ -231,8 +231,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 figure.wp-block-image{margin-left:0!important;margin-right:0!important}
 figcaption{font-size:.85rem;text-align:center;color:#555;margin-top:8px;padding:0 8px}
 
-/* ── Hero image ── */
-.wp-image-16496{max-width:100%!important;height:auto!important}
+/* ── Hero image — taille Elementor d'origine (550px), responsive sur petits écrans ── */
+.wp-image-16496{width:550px!important;max-width:100%!important;height:auto!important}
 
 /* ── Encadrés callout ── */
 .contentblog div[style*="background:#F0E8FF"]{box-sizing:border-box;width:100%!important}
@@ -279,6 +279,9 @@ figcaption{font-size:.85rem;text-align:center;color:#555;margin-top:8px;padding:
   .contentblog h2{font-size:1.15rem!important}
   .contentblog p,.contentblog li{font-size:.93rem!important}
 }
+
+/* ── Fil d'Ariane — masqué (géré par WP côté serveur, inutile en statique) ── */
+.elementor-widget-breadcrumbs{display:none!important}
 
 /* ── Correctif largeur header sticky (écrase la valeur en px injectée par Elementor JS) ── */
 .elementor-location-header .elementor-sticky--active,
