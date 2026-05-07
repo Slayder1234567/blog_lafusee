@@ -3,7 +3,7 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://blog-lafusee.vercel.app/</loc>
-    <lastmod>2026-05-05</lastmod>
+    <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <image:image>
@@ -14,14 +14,17 @@
     <image:image>
       <image:loc>https://blog-lafusee.vercel.app/etapes-crawl-indexation-google.png</image:loc>
       <image:title>4 étapes entre être en ligne et être visible sur Google</image:title>
+      <image:caption>Schéma des 4 états distincts : hébergement, crawl Googlebot, indexation, visibilité dans les résultats de recherche</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://blog-lafusee.vercel.app/processus-googlebot-exploration-indexation.png</image:loc>
       <image:title>Processus Googlebot — exploration et indexation d'une page web</image:title>
+      <image:caption>Comment Googlebot découvre une URL, crawle la page, analyse le HTML et décide de l'indexer dans la base de données Google</image:caption>
     </image:image>
     <image:image>
       <image:loc>https://blog-lafusee.vercel.app/google-search-console-verification-url.png</image:loc>
       <image:title>Google Search Console — vérification du statut d'indexation d'une URL</image:title>
+      <image:caption>Interface de Google Search Console montrant l'outil d'inspection d'URL et le statut d'indexation d'une page</image:caption>
     </image:image>
   </url>
 </urlset>
